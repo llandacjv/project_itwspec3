@@ -1,0 +1,14 @@
+{
+  "sample": [
+    {
+      "name": "Monkey D. Luffy",
+      "gender": "Male",
+      "designation": "Captain"
+    },
+    {
+      "name": "Roronoa Zoro",
+      "gender": "Male",
+      "designation": "Vice Captain"
+    }
+  ]
+}
